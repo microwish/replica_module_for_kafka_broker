@@ -1,0 +1,1 @@
+# replica_module_for_kafka_broker
